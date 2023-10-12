@@ -1,0 +1,23 @@
+{
+    "source_database": {
+        "username": "source-database-username",
+        "password": "source-database-password",
+        "host": "127.0.0.1",
+        "port": "3306",
+        "database_name": "source-database-name"
+    },
+    "service_database": {
+        "username": "service-database-username",
+        "password": "service-database-password",
+        "host": "127.0.0.1",
+        "port": "5432",
+        "database_name": "service-database-name"
+    },
+    "secret_manager": {},
+    "ppn_config": {
+        "time_start_ppn": 1478624400,
+        "tarif_ppn": 10,
+        "time_start_ppn_new": 1648746000,
+        "tarif_ppn_new": 11
+    }
+}
